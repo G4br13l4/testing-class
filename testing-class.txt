@@ -1,0 +1,19 @@
+Testing class
+
+@yeion7
+resuelve tu deuda
+
+*Cada cambio en un pull requestun code review
+*Toda pull pasa por 
+*Guias de calidad
+*Static Typing: Flow,typescript
+*Tipos de Tests
+    *Static Analysis: Linter + Static Typing 
+    *Unit Test: mas basico y pequeño
+    *Integracion: mas tiempo y mas confianza
+    *E2E: muy costosos, mucho tiempo y complejos
+
+Recomienda Jest
+Jest Snippets para escribir rapido
+
+coverage: cuanto de mi codigo estoy testeando
